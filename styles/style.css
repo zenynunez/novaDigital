@@ -817,7 +817,8 @@ section {
 	font-size: 1.4em;
 	position: absolute;
 	bottom: 0;
-	margin: 26% 21%;
+	margin: 26% 21%; 
+	text-align: center;
 }
 #servicios .btn{
 	background-color: #000;
@@ -830,6 +831,9 @@ section {
 
 .last h2{
 	margin: 20% 38%;
+}
+.fix h2 {
+	margin: 26% 34%;
 }
 .servicios-container a{
 	color:#333;
